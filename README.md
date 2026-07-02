@@ -11,3 +11,6 @@ Espectro_LIBSde_Moneda_de_10_pesos_mexicanos is a Jupyter Notebook designed to e
 Note: This script is configured to run specifically with my raw CSV files stored in Google Drive. If you would like to test the code or reproduce the results, please contact me, and I will gladly share the access links.
 
 The project "Prototipo de maquina recibidora e iluminadora de billetes" is a arduino script to emulate the behave of a counterfeit banknote detector machine, using a servomotor and LCD electronic screen. The algorithm consist in three steps: receive ticket, analize ticket (leds and screen turning on), veredic (True/False), return ticket (leds and screen turning off),and the new cycle can start. this project was planning to be counterfeit banknote detector machine with CNN (convoultional-neural-networks) but the final script is not complet now, for this reason it's not include in the repository. The code can run in a arduino simulator like thinkercad.
+
+
+ServicioSocialEstabilidadAMP is a scrip that allow extract information of position, size and time 
