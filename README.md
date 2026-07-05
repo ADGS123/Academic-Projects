@@ -35,7 +35,7 @@ Welcome to my repository! :D This space contains a collection of projects I have
 * **Note:** This script relies on raw data stored in Google Drive. If you would like to test the code or reproduce the results, please contact me and I will gladly grant access.
 
 ### Servicio Social: Estabilidad AMP
-* **Description:** A Python script developed during my social service to analyze the position, size, and levitation time of acoustically levitated droplets.
+* **Description:**A Python script developed during my social service to analyze the position, size, and levitation time of acoustically levitated AMP (3-mercaptopropionic acid combined with gold nanoparticles and water) droplets.
 * **Technical Details:** Uses **Pandas, NumPy, and Matplotlib** to clean raw CSV data and plot droplet size and position against time. It visualizes droplet evolution during preconcentration, where a laser heats the droplet to decrease its volume, effectively analyzing its stability.
 * **Note:** This script requires specific raw CSV files. Feel free to contact me if you need the data files to run the code.
 
